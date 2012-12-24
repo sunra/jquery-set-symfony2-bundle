@@ -1,9 +1,9 @@
 {
-    "name": "sunra/jquery.timers",
-    "type": "symfony-bundle",
-    "description": "jQuery.Timers plugin - Symfony2 bundled & in composer packaged",
-    "keywords": ["jQuery", "timer", "symfony"],
-    "homepage": "https://github.com/sunra/jquery.timers",
+    "name": "sunra/jquery-set-symfony2-bundle",
+    "description": "jQuery and set of plugins for Symfony2. Bundled & composer packaged",
+    "type": "symfony-bundle",    
+    "keywords": ["jQuery", "symfony", "plugin", "timer"],
+    "homepage": "https://github.com/sunra/jquery-set-symfony2-bundle",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,6 @@
     ],
     "require": {        
         "php": ">=5.3.2",
-        "symfony/framework-bundle": "2.*",
-        "sonata-project/jquery-bundle": "1.8.*@dev"
+        "symfony/framework-bundle": "2.*"        
     }
 }

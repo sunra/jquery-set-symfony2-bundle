@@ -14,7 +14,7 @@ jQuery 1.8.3
 Plugins
 -------
 
-jQuery.Timers
+- jQuery.Timers http://jquery.offput.ca/timers/
 
 
 Usage
