@@ -43,5 +43,9 @@ app/console assets:install
 Usage
 -----
 ```
+
 <script src="{{ asset('bundles/sunrajqueryset/js/jquery/jquery-1.8.3.min.js') }}"></script>
+
+<script src="{{ asset('bundles/sunrajqueryset/js/jquery-plugin/jQueryTimers/jquery.timers.js') }}"></script>
+
 ```
