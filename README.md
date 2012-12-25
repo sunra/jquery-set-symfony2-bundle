@@ -1,5 +1,5 @@
-jQuery and plugin set for Symfony2
-==================================
+jQuary and set of plugins for Symfony2 projects
+===============================================
 
 Symfony2 bundled & in composer packaged
 
@@ -10,11 +10,10 @@ Contents
 --------
 jQuery 1.8.3
 
-
 Plugins
 -------
+jQuery.Timers http://jquery.offput.ca/timers/
 
-- jQuery.Timers http://jquery.offput.ca/timers/
 
 
 
@@ -43,6 +42,6 @@ app/console assets:install
 
 Usage
 -----
-```js
+```
 <script src="{{ asset('bundles/sunrajqueryset/js/jquery/jquery-1.8.3.min.js') }}"></script>
 ```
