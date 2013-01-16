@@ -8,7 +8,7 @@ https://github.com/sunra/jquery-set-symfony2-bundle
 
 Contents
 --------
-jQuery 1.8.3
+jQuery 1.8.3, 1.9.0
 
 Plugins
 -------
