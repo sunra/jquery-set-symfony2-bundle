@@ -10,6 +10,11 @@ Contents
 --------
 jQuery 1.8.3, 1.9.0
 
+Note: jQ 1.9 has many CBs! 
+Not forget use migration script
+https://github.com/jquery/jquery-migrate/
+
+
 Plugins
 -------
 jQuery.Timers http://jquery.offput.ca/timers/
@@ -45,6 +50,7 @@ Usage
 ```
 
 <script src="{{ asset('bundles/sunrajqueryset/js/jquery/jquery-1.8.3.min.js') }}"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.0.0.js"></script>
 
 <script src="{{ asset('bundles/sunrajqueryset/js/jquery-plugin/jQueryTimers/jquery.timers.js') }}"></script>
 
