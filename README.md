@@ -11,6 +11,7 @@ Contents
 jQuery 1.8.3, 1.9.0
 
 Note: jQ 1.9 has many CBs! 
+read http://jquery.com/upgrade-guide/1.9/
 Not forget use migration script
 https://github.com/jquery/jquery-migrate/
 
