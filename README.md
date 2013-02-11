@@ -8,18 +8,13 @@ https://github.com/sunra/jquery-set-symfony2-bundle
 
 Contents
 --------
-jQuery 1.8.3, 1.9.0
-
-Note: jQ 1.9 has many CBs! 
-read http://jquery.com/upgrade-guide/1.9/
-Not forget use migration script
-https://github.com/jquery/jquery-migrate/
-
+jQuery 1.8.3, 1.9.0, 1.9.1
+jQuery Migrate 1.1.0
 
 Plugins
 -------
-jQuery.Timers http://jquery.offput.ca/timers/
-
+- jQuery.Timers        n/a       http://jquery.offput.ca/timers/
+- jQuery-Tags-Input    1.3.3     https://github.com/xoxco/jQuery-Tags-Input
 
 
 
