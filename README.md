@@ -8,8 +8,8 @@ https://github.com/sunra/jquery-set-symfony2-bundle
 
 Contents
 --------
-jQuery 1.8.3, 1.9.0, 1.9.1
-jQuery Migrate 1.1.0
+jQuery 1.8.3, 1.9.0, 1.9.1, 2.0.2, 1.10.1
+jQuery Migrate 1.1.0, 1.2.1
 
 Plugins
 -------
